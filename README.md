@@ -1,5 +1,5 @@
 # youtube_videos_api
-Performing a task using using python and djnago rest framework.
+Performing a task using  python and djnago rest framework.
 ## How to Run
 python manage.py runserver
 
